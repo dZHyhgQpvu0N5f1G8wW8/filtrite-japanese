@@ -16,13 +16,12 @@ https://raw.githubusercontent.com/AdguardTeam/FiltersRegistry/master/filters/fil
 https://easylist.to/easylist/easylist.txt
 https://gitlab.com/curben/urlhaus-filter/raw/master/urlhaus-filter-online.txt
 https://pgl.yoyo.org/adservers/serverlist.php?hostformat=adblockplus&showintro=1&mimetype=plaintext
-https://www.i-dont-care-about-cookies.eu/abp/
+https://secure.fanboy.co.nz/fanboy-cookiemonster_ubo.txt
 https://raw.githubusercontent.com/eEIi0A5L/adblock_filter/master/fix_filter.txt
 
 # ----------------------------------
 # Now some region-specific lists
 # ----------------------------------
-https://raw.githubusercontent.com/eEIi0A5L/adblock_filter/master/mochi_filter.txt
 https://raw.githubusercontent.com/eEIi0A5L/adblock_filter/master/tamago_filter.txt
 
 # Adguard lists from https://github.com/AdguardTeam/AdguardFilters/tree/master/JapaneseFilter
