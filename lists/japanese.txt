@@ -2,18 +2,28 @@
 # First, all entries from bromite-extended
 # ----------------------------------
 
-# Default uBlockOrigin
-https://raw.githubusercontent.com/uBlockOrigin/uAssets/master/filters/filters.txt
-https://raw.githubusercontent.com/uBlockOrigin/uAssets/master/filters/badware.txt
-https://raw.githubusercontent.com/uBlockOrigin/uAssets/master/filters/privacy.txt
-https://raw.githubusercontent.com/uBlockOrigin/uAssets/master/filters/resource-abuse.txt
-https://raw.githubusercontent.com/uBlockOrigin/uAssets/master/filters/unbreak.txt
+# Default entries from https://github.com/bromite/filters/blob/master/lists.txt
+https://github.com/uBlockOrigin/uAssets/raw/master/filters/filters.txt
+https://github.com/uBlockOrigin/uAssets/raw/master/filters/resource-abuse.txt
+https://easylist.to/easylist/easylist.txt
+https://easylist.to/easylist/easyprivacy.txt
+https://pgl.yoyo.org/adservers/serverlist.php?hostformat=adblockplus&showintro=1&mimetype=plaintext
+https://raw.githubusercontent.com/brave/adblock-lists/master/brave-unbreak.txt
+https://raw.githubusercontent.com/brave/adblock-lists/master/coin-miners.txt
+https://easylist-downloads.adblockplus.org/abp-filters-anti-cv.txt
 
 # Annoying Elements, Cookie promts etc.
-https://pgl.yoyo.org/adservers/serverlist.php?hostformat=adblockplus&showintro=1&mimetype=plaintext
+https://raw.githubusercontent.com/yourduskquibbles/webannoyances/master/ultralist.txt
+https://raw.githubusercontent.com/uBlockOrigin/uAssets/master/filters/annoyances.txt
+https://secure.fanboy.co.nz/fanboy-annoyance.txt
+https://secure.fanboy.co.nz/fanboy-cookiemonster.txt
+https://filters.adtidy.org/extension/ublock/filters/14.txt
 
-# ----------------------------------
-# Now some region-specific lists
-# ----------------------------------
-https://gitlab.com/curben/urlhaus-filter/-/raw/master/urlhaus-filter-online.txt
-https://raw.githubusercontent.com/Yuki2718/adblock/master/japanese/jp-filters.txt
+# Other uBlock Origin filters
+https://raw.githubusercontent.com/uBlockOrigin/uAssets/master/filters/privacy.txt
+https://raw.githubusercontent.com/uBlockOrigin/uAssets/master/filters/unbreak.txt
+
+https://filters.adtidy.org/extension/ublock/filters/7_optimized.txt
+https://raw.githubusercontent.com/tofukko/filter/master/Adblock_Plus_list.txt
+https://raw.githubusercontent.com/eEIi0A5L/adblock_filter/master/mochi_filter.txt
+https://raw.githubusercontent.com/eEIi0A5L/adblock_filter/master/ichigo_filter.txt
